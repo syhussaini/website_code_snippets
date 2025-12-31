@@ -25,7 +25,9 @@ This snippet creates a modal popup that appears in the WordPress admin dashboard
 
 Here's what the modal popup looks like when displayed in the WordPress admin area:
 
-![Admin Modal Popup Example](popup-message-to-admins-example.png)
+### Admin Modal Popup Example
+<img width="2385" height="1053" alt="image" src="https://github.com/user-attachments/assets/d010f664-8f83-4679-bcb5-d8194e47296d" />
+
 
 *Screenshot showing the modal popup with header, content message, action buttons, and footer checkbox.*
 
