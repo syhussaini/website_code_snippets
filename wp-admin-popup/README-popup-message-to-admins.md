@@ -25,8 +25,7 @@ This snippet creates a modal popup that appears in the WordPress admin dashboard
 
 Here's what the modal popup looks like when displayed in the WordPress admin area:
 
-### Admin Modal Popup Example
-<img width="2385" height="1053" alt="image" src="https://github.com/user-attachments/assets/a3da973c-bcdd-4cfd-beba-9d71031f1845" />
+![Admin Modal Popup Example](popup-message-to-admins-example.png)
 
 *Screenshot showing the modal popup with header, content message, action buttons, and footer checkbox.*
 
@@ -36,7 +35,8 @@ Here's what the modal popup looks like when displayed in the WordPress admin are
 
 1. **Install WPCode Lite** (if not already installed)
    - Go to WordPress Admin → Plugins → Add New
-   - Search for "WPCode" and install the free version
+   - Search for "WPCode Lite" and install the free version
+   - Or download directly from: [WPCode Lite on WordPress.org](https://wordpress.org/plugins/insert-headers-and-footers/)
 
 2. **Add the Snippet**
    - Navigate to **Code Snippets** → **Add Snippet** (or **WPCode** → **Add Snippet**)
